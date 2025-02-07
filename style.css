@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding-left: 0;
+    box-sizing: border-box;
+}
+
+html{
+        scroll-behavior: smooth;
+        background-color: black;
+
+        font-family: 'Pixelify Sans';
+}
+
